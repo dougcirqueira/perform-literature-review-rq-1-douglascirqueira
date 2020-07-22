@@ -2,7 +2,7 @@
 Data and resources for literature review performed in the context of my Ph.D. project, within Research Question 1
 
 # Systematic Literature Review Steps to Identify the Requirements of Experts aligned with Cognitive Tasks for Decision-Making
-
+![Image of Steps](https://github.com/dougcirqueira/perform-literature-review-rq-1-douglascirqueira/blob/master/resources/literature_review_steps.png)
 
 # Table with Supporting Literature for Cognitive Tasks of Fraud Experts
 
